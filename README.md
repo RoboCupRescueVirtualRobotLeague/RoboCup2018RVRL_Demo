@@ -1,4 +1,7 @@
 # RoboCup2018 Rescue Simulation Virtual Robot League 
+This repository includes a robot model and field models used in RoboCup World Champion Ship 2018 Rescue Simulation Virtual Robot League(RC2018RVRL).  
+You can find other records of the RC2018RVRL game in [wiki page of this repository](https://github.com/RoboCupRescueVirtualRobotLeague/RoboCup2018RVRL_Demo/wiki).
+And you can find important information like the latest rule in [the rescue virtual robot league wiki page](https://rescuesim.robocup.org/).  
 
 ### You can access the scoring by the clicking [here](https://docs.google.com/spreadsheets/d/1-B7wG5-vcC4PbqGRlvNE4zfG6vQnTvdOxo-FyXnkg1U)
 
